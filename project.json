@@ -1,0 +1,10 @@
+{
+    "name": "newcode",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "newcode.xml",
+    "author": "681850",
+    "minimum_firmware_version": 42
+}
